@@ -1,6 +1,6 @@
 module.exports = {
   title: 'CraigB.\'s Docs',
-  tagline: 'The tagline of my site',
+  tagline: 'Docs and Thoughts for Thots',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
