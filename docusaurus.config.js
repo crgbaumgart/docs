@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Craig\'s Docs',
+  title: 'CraigB.\'s Docs',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'craigs-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'CraigB.\'s Documentation',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

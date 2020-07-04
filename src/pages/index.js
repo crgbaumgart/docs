@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Welcome to CraigB.'s Docs & Thoughts 
             </Link>
           </div>
         </div>
